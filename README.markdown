@@ -133,6 +133,7 @@ After you've pushed your well-tested changes to your github fork, make a pull re
 * Nigel Ramsay
 * Philip Arndt
 * Vikram Oberoi
+* Hugo Frappier
 
 ## Legal Mumbo Jumbo
 
